@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/979
     wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35374#The-Dreamers--A-Club
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2011-02-23'
 gutenberg_type: Text
