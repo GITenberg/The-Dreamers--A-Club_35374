@@ -1,0 +1,35 @@
+_repo: The-Dreamers--A-Club_35374
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Penfield, Edward
+    birthdate: 1866
+    deathdate: 1925
+    gutenberg_agent_id: '40322'
+    url: http://www.gutenberg.org/2009/agents/40322
+covers:
+- cover_type: archival
+  image_path: 35374-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bangs, John Kendrick
+    birthdate: 1862
+    deathdate: 1922
+    gutenberg_agent_id: '979'
+    url: http://www.gutenberg.org/2009/agents/979
+    wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2011-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35374'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- Societies, etc. -- Fiction'
+- !lcc 'PS'
+title: 'The Dreamers: A Club'
+url: http://www.gutenberg.org/ebooks/35374
